@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Created by Mathew Thomas, August 2014.
+# Created by TomoDev, August 2014.
 #
 # This provides a menu driven application using a 16x2 LCD.
 
