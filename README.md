@@ -46,6 +46,6 @@ Changes:
  - Added support for a reboot command
  - Heavily modifed to use standard LCD's rather than Adafruit_LCDPlate
 
-Written by TomoDev for non Adafruit LCD's for use with Raspberry Pi. 
+ 
 
 GPL v3 license, kindly include text above in any redistribution.
