@@ -6,7 +6,7 @@ Menu for use with standard 16x2 LCD and Raspberry Pi
 RaspberryPiLcdMenu
 ==================
 
-A menu driven application template for the Adafruit LCD Plates on a Raspberry Pi.
+A menu driven application template for 16x2LCD on a Raspberry Pi.
 
 It provides a simple way to navigate a nested set of menus, and run various
 functions, by pressing the buttons connected to the GPIO pins.  Included is a way
