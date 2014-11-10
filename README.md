@@ -44,7 +44,7 @@ Changes:
  - Added support to set date/time
  - Fixed bug to allow backing out of ListSelector
  - Added support for a reboot command
- - Heavily modifed to use standard LCD's rather than Adafruit_LCDPlate
+ - Heavily modifed to use standard LCD's rather than Adafruit_LCDPlate //TomoDev
 
  
 
